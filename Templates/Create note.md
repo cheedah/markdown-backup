@@ -1,4 +1,4 @@
-Job <%*
+<%*
 const title = await tp.system.prompt("Title", null, true);
 const date = tp.date.now("YYYY/MM/DD");
 const template = `---

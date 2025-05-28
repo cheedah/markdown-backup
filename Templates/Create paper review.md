@@ -24,3 +24,7 @@ const uuid = uuid_uppercase.toLowerCase();
 const folder = app.vault.getAbstractFileByPath("Notes");
 await tp.file.create_new(template, uuid, true, folder);
 %>
+
+東京都立東部地域病院　葛飾区亀有5-14-1 035608
+東京慈恵会医科大学葛飾医療センター　葛飾青砥6-41-2 0336032111
+平成か正式病院0336922121
